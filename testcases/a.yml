@@ -1,0 +1,50 @@
+---
+type: Batch
+timelimit: 4s
+match: Lines
+
+cases:
+  - name: sample1
+    in: |
+      4 2 8 8 3
+      ########
+      #o#oooo#
+      #ooooo##
+      ##ooooo#
+      #oooo#x#
+      ##o#ooo#
+      ##@ooox#
+      ########
+      ########
+      ##xoooo#
+      #oo#oox#
+      #oooooo#
+      #oooxoo#
+      ##o@o#o#
+      #o#oo#o#
+      ########
+      ########
+      #ooo##o#
+      #oo##oo#
+      #ooo@oo#
+      ###oooo#
+      #o#xo#o#
+      #ooooo##
+      ########
+      ########
+      #ooo#oo#
+      ##oooo##
+      ##ooo#@#
+      #oooooo#
+      #oo#ooo#
+      #oooo#x#
+      ########
+    out: |
+      1 2
+      URR
+
+extend:
+  - type: Text
+    path: "./a"
+    in: /in/*.txt
+    out: /out/*.txt

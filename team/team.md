@@ -1,4 +1,4 @@
-<img src="./team1.gif" height="200">
+<img src="./team1.gif" height="200" width="200">
 <strong>TheCodeGang5</strong>
 
 |                     | atcoder                                               | A    | H   | Hperf | lang   |

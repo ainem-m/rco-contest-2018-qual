@@ -13,7 +13,7 @@
 
 
 
-<img src="./team2.jpg" height="100">
+<img src="./team2.png" height="200">
 <strong>へびつかい</strong>
 
 
@@ -54,7 +54,7 @@
 | 8wings        | [8wings](https://atcoder.jp/users/8wings)               | 1635 | 1578 | 2166  | Python       |
 | platinum      | [platinum](https://atcoder.jp/users/platinum)           | 1699 | 1660 | 2125  | cpp          |
 
-<img src="./team5.png" height="100">
+<img src="./team5.png" height="200">
 <strong>ネバーギブアップの掟</strong>
 
 |            | atcoder                                           | A    | H    | Hperf | lang        |
@@ -69,7 +69,7 @@
 
 
 
-<img src="./team6.png" height="100">
+<img src="./team6.jpg" height="200">
 <strong>チョコ零個焼きなます！</strong>
 
 
